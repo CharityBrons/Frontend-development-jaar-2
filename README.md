@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Mijn focus gaat liggen bij surface plane
+  Mijn focus gaat liggen bij surface plane (blingbling)
  
 </details>
 
@@ -106,6 +106,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Voortgang 1 (week 2)
+Vragen van de groep:
+
+  - Hoe is mijn gebruik van classes en divs? Is dit de juiste manier? Hoe zou dit beter kunnen?
+  - Heb ik position te vaak gebruikt? Is dit de juiste manier? Hoe zou dit beter kunnen?
+  - Ik heb veel margin en padding veranderingen gebruikt om te positioneren, is dit handig? Hoe zou dit beter kunnen?
+  
+  - hoe je een makkelijkere navigatie menu kan maken inplaats van hamburger menu?
+  
+  - is een Hamburg menu nodig? Of mag ik ook een normale nav maken?
+  - hoe werken slide shows?
+  - mag je gebruik maken van sections om verschillende delen van je website aan te geven?
+  
+  -moet je phone versie ook horizontaal werken?
+  -moet je alle animaties ook overnemen van je site?
 
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
