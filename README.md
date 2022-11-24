@@ -115,26 +115,38 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Het schrijven van de html code is goed te doen. Ik heb daarentegen vele moeite met het toevoegen van de css. Ik merk dat ik flexbox niet goed
+  onder controle heb en er meer aandacht aan moet besteden. Ik moet me meer gaan focussen op het maken van de oefenopdrachten i.p.v. de opdracht. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | student 1 Quinty  
+  - Hoe is mijn gebruik van classes en divs? Is dit de juiste manier? Hoe zou dit beter kunnen?
+  - Heb ik position te vaak gebruikt? Is dit de juiste manier? Hoe zou dit beter kunnen?
+  - Ik heb veel margin en padding veranderingen gebruikt om te positioneren, is dit handig? Hoe zou dit beter kunnen?   
+  
+  | student 2 Charity   
+  - is een Hamburg menu nodig? Of mag ik ook een normale nav maken?
+  - hoe werken slide shows?
+  - mag je gebruik maken van sections om verschillende delen van je website aan te geven? 
+
+  | student 3 Ryan  
+  - hoe je een makkelijkere navigatie menu kan maken inplaats van hamburger menu 
+  
+  | student 4 Matthew       
+  - moet je phone versie ook horizontaal werken?
+  - moet je alle animaties ook overnemen van je site?
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Het hamburg menu wordt uitgeld in de volgende huiswerk opdracht, het is goed om deze dus te gaan maken.
+  - Maak geen gebruik van divs maar juist van articles en in de css nth 1 nth 2 etc.
+  - veel gebruik mmaken van padding en margins is niet erg
+  - Maak de huiswerk opdrachten
+  - zorg ervoor dat je verder werkt aan de eerste pagina en dat die af is voor volgende week
 
 </details>
 
