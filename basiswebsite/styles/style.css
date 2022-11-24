@@ -1,0 +1,41 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+button, summary {
+	cursor: pointer;
+}
+
+body{
+	font-family: Aeonik,Helvetica,Arial,sans-serif;
+}
+
+Header{
+	position: sticky;
+	background-color: transparent;
+}
+
+li{
+	list-style: none;
+}
+
+button li{
+	display: none;
+}
+
+header ul{
+	display: flex;
+	justify-content: flex-end;
+	align-items: stretch;
+	margin-top: auto;
+}
+
+
+
+
+
+
+
