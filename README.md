@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Charity brons
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Mijn focus gaat liggen bij surface plane (blingbling)
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -39,13 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Straat museum  
-  ![straatmuseum com_nl(iPhone 12 Pro)](https://user-images.githubusercontent.com/118280901/203651419-99e7f703-c9f0-46ff-b4bc-f12c9a583d0d.png)
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
-  
   #### Screenshot(s) van de tweede pagina (small screen):
-  Tickets  
-  ![image](https://user-images.githubusercontent.com/118280901/203652050-48128985-5268-4b64-936c-dff46097b9bc.png)
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -60,33 +59,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  - Door de tekst scrollen is goed te doen
-  - Wanneer je een button in wil drukken klikt hij automatisch naar ene header
-  - Kleine icoontjes zijn moeilijk om aan te klikken
-  - De scroll bar werkt heel slecht. het is niet makkelijk klikbaar en de pagina verschuift automatisch weer terug naar boven als je de bar loslaat
-  - De scroll bar is niet makkelijk in gebruik om rustig dor te scrollen
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
-  - Tekst wordt eerst volledig omringd met selectie en daarna de binnenste rand, hierdoor ga je 2 keer langs 1 woord of button
-  - Wit regels worden geselecteerd
-  - Wanneer je je hamburg menu opent kan je de headers niet selecteren
-  - Wanneer je tickets wilt halen kan je niet makkelijk terug naar het home scherm
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  - snel typen is moeilijk te doen
-  - knop combinaties zijn vrijwel niet te doen wanneer je 1 of meerdere vingers mist
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  - moeilijke focus leggen
-  - wazige tekst
-  - Grote letters helpen
-  
-  ![BD3F893E-7A52-4FE7-9923-977BA161255D_1_105_c](https://user-images.githubusercontent.com/118280901/203652693-2162cdf8-143f-43bd-accd-980c3dc759c9.jpeg)
+  Hier korte omschrijving (met indien nodig afbeeldingen)
 
-  
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 </details>
 
@@ -98,15 +91,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  ![image](https://user-images.githubusercontent.com/118280901/203645805-c1dc0a98-4fec-4d93-9f7f-fc2b312a227b.png)
-
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  
   ### wellicht nog een dynamisch deel (bijv filter): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-  
 </details>
 
 
@@ -114,37 +106,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 ## Voortgang 1 (week 2)
-Vragen van de groep:
-
-  Quinty
-  - Hoe is mijn gebruik van classes en divs? Is dit de juiste manier? Hoe zou dit beter kunnen?
-  - Heb ik position te vaak gebruikt? Is dit de juiste manier? Hoe zou dit beter kunnen?
-  - Ik heb veel margin en padding veranderingen gebruikt om te positioneren, is dit handig? Hoe zou dit beter kunnen?
-  
-  Ryan
-  - hoe je een makkelijkere navigatie menu kan maken inplaats van hamburger menu?
-  
-  Charity
-  - is een Hamburg menu nodig? Of mag ik ook een normale nav maken?
-  - hoe werken slide shows?
-  - mag je gebruik maken van sections om verschillende delen van je website aan te geven?
-  
-  Matthhew
-  -moet je phone versie ook horizontaal werken?
-  -moet je alle animaties ook overnemen van je site?
 
 <details>
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-Ik heb tot nu toe erg veel moeite met de basis leggen voor mijn css. De html inhoud kan ik zelf maken, de css is daarentegen een probleem.
-Ik heb me beseft dat ik weinig kennis heb over flexbox, daarom moet ik meer oefenen met de opdrachten. Ik heb nog weinig tijd gehad om aan de oefen 
-opdrachten te werken en dat mer ik in het verwerken van mijn css.
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | quinty         | Ryan               | Charity      | Matthew          |
+  | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
