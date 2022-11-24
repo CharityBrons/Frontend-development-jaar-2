@@ -38,12 +38,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://straatmuseum.com/nl 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Straat home   
+  <img src="straatmuseum.com_nl(iPhone 12 Pro).png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Tickets  
+  <img src="tickets.straatmuseum.com_nl_tickets(iPhone 12 Pro).png" width="375px" alt="Tickets">
  
 </details>
 
@@ -58,28 +58,33 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Door de tekst scrollen is goed te doen
+  - Wanneer je een button in wil drukken klikt hij automatisch naar ene header
+  - Kleine icoontjes zijn moeilijk om aan te klikken
+  - De scroll bar werkt heel slecht. het is niet makkelijk klikbaar en de pagina verschuift automatisch weer terug naar boven als je de bar loslaat
+  - De scroll bar is niet makkelijk in gebruik om rustig dor te scrollen
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - Tekst wordt eerst volledig omringd met selectie en daarna de binnenste rand, hierdoor ga je 2 keer langs 1 woord of button
+  - Wit regels worden geselecteerd
+  - Wanneer je je hamburg menu opent kan je de headers niet selecteren
+  - Wanneer je tickets wilt halen kan je niet makkelijk terug naar het home scherm
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - knop combinaties zijn zo goed als niet te doen, wanneer je 1 of meer vingers mist.
+  - Je kan niet snel teksten typen is
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bevindingen bril - perpheral field loss
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  - moeilijke focus leggen
+  - wazige tekst
+  - Grote letters helpen
 
+<img src="IMG_1553.HEIC" width="375px" alt="Mats">
 </details>
 
 
