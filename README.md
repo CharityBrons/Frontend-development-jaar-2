@@ -96,13 +96,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -184,10 +184,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Maak de opdracht uit de les
+  - maak gebruik van de x value
+
 
 </details>
 
@@ -204,25 +203,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De schreenreader is erg vervelend in gebruik. Niet alle headings worden voorgelezen. Hij zegt steeds bezocht link en dan de naam van de link, wanneer er over een link getabt wordt. Het apparaat zou niet de hele link op moeten noemen. Afbeeldingen worden niet allemaal voorgelezen met een beschrijving. Het formulier wordt voorgelezen inclusief wat er in het formulier ingevuld moet worden.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
-
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Met een muis en toetsenbord door de website gaan gaat goed. Het is geen responsive website dus er wordt alleen door een telefoon scherm gescrolld. De toetsenbord tabs werken verassend goed en er word langs alle knoppen,titels en afbeeldingen gegaan.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Door de website scrollen met een trillende arm gaat prima. Het grootste probleem is het invullen van het formulier. Die is vrij klein voor iemand met bijvoorbeeld parkinsin. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  De kleuren maken het onderscheid van de verschillende onderdelen duidelijk. Er moet wel een goed alternatief getoond worden voor de dark mode versie. 
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -250,14 +248,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  - heb ik de flex functie op de juiste css plek gezet?
+  - Hoe werkt het js gedeelte met de tijger afbeelding?
+  - Hoe maak ik een goed hamburg menu? Het werkt niet helemaal goed.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - ik had de fles functie niet op de juiste plek gezet ik moest het omdraaien.
+  - voor de tijger zoom zijn deze js waardes goed genooeg. Het werkt prima (speel met de waardes)
+  - Kijk nog eens goed naar de opdracht voor het hamburg menu, vraag anders sasja om je te helpen.
 
 </details>
 
@@ -271,17 +271,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
+  file:///Users/cb/Documents/cmd%202021:2025/Jaar%202/Frontend%20development/basiswebsite/index.html
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
-
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb de afgelopen weken veel geleerd omtrent html en css. Ik heb mijn basiskennis zeker verbeterd en ik kan nu makkelijker code schrijven. Ik vond het leuk om meer te leren over animeren en het daadwerkelijk mooi maken van een website. Ondanks dat ik het niet af heb gekregen. Ik vond het leuk om aan deze opdracht te werken, het is net een grote puzzel oplossen. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Ik had heel veel moeite met het maken van de css. Ik merkte aan mezelf dat ik weer helemaal moest inkomen met css schrijven. Ik heb hierdoor de opdracht dan ook niet af gekregen. Ik heb 90% van mijn tijd besteed aan het combineren van mijn html en css code. Ik had meer hulp moeten vragen, maar dat wilde ik liever niet doen. Ik vind het jammer dat ik weinig tijd heb besteed aan het animeer gedeelte van de opdracht. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -297,8 +297,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. bron 1|: https://code-boxx.com/html-css-news-ticker-horizontal-vertical/#sec-horizontal (hoe maak ik een ticker text?)
+  2. bron 2: https://stackoverflow.com/questions/70517687/background-image-increase-size-with-scroll (Hoe laat ik een afbeelding inzoomen in beeld)
+  3. 
 
 </details>
