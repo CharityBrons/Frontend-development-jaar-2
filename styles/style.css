@@ -3,39 +3,330 @@
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
+  padding: 0;
+  margin: 0;
 }
 
-button, summary {
-	cursor: pointer;
+button{
+	background: transparent;
+	border: none;
+}
+
+img{
+	width: 100%;
 }
 
 body{
 	font-family: Aeonik,Helvetica,Arial,sans-serif;
 }
 
-Header{
-	position: sticky;
-	background-color: transparent;
+header{
+	position: fixed;
+	top: 0;
+	display:flex;
+ 	justify-content:space-between;
+	align-items: center;
+	margin-top: .1em;
+	width: 100%;
+}
+/* hamburg uitschuif*/
+header > nav{ 
+	background-color:#DBE1E4 ;
+	position: fixed;
+	transform: translateX(-100%);
+	transition: 1s;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
 }
 
-li{
-	list-style: none;
+header nav > ul a{
+	color: black;
+	text-decoration:none;
+	font-size: 36px;
+	padding: 1em;
 }
 
-button li{
-	display: none;
+header h1{
+	transform:perspective(10em) rotate3d(1, -1, 0, 0deg);
+  	transition: .75s;
+}
+
+header h1 :hover{
+	color: white;
+	margin-left: 1em;
+	font-size: 20px;
+	transform:perspective(1em) rotate3d(1, -1, 0,);
 }
 
 header ul{
+	list-style: none;
+}
+
+header button img {
+	height:2em;
+	transform: skewX(150deg);
+}
+
+header button{
+	padding: 1em;
+}
+
+nav.toonMenu {
+	transform:translatex(0);
+}
+
+/*shop*/
+header > a:nth-of-type(1){ 
+	background:transparent;
+	height:2em;
+	padding: 0 10px 0 20px;
+	transform: skewX(150deg);
+	color:white;
+	text-decoration: none;
+	font-size: 9px;
+	font-weight: bold;
+	border-style: solid;
+}
+/*Tickets*/
+header > a:nth-of-type(2){
+	background: white;
+	height:2em;
+	padding: 0 25px 0 20px;
+	transform: skewX(150deg);
+	color: black;
+	text-decoration: none;
+	font-size: 9px;
+	font-weight: bold;
+}
+
+/*Anne frank section*/
+
+section:nth-of-type(1){ 
+	background-image: url(../images/annefrank.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 40em;
 	display: flex;
-	justify-content: flex-end;
-	align-items: stretch;
-	margin-top: auto;
+	align-items: flex-end;
+	padding: 2em;
+}
+
+section:nth-of-type(1) a{
+	color: white;
+	font-size: 45px;
+	text-decoration: none;
+}
+
+section:nth-of-type(1) li{
+	list-style: none;
+}
+
+/*paars section*/
+/*bewegende ticker*/
+.hwrap{
+  	font-size: 5em;
+	font-weight: 700;
+	overflow: hidden;
+	white-space: nowrap;
+	background-color: #8B99BD;
+}
+
+.hmove{
+	display: flex;
+}
+
+.hitem {
+	flex-shrink: 0;
+	width: 500%;
+	box-sizing: border-box;
+	padding: .5em;
+	text-align: center;
+}
+
+@keyframes tickerh {
+	0% { transform: translate3d(0%, 0, 0); }
+	100% { transform: translate3d(-580%, 0, 0); }
+  }
+  .hmove { animation: tickerh linear 18s infinite; }
+
+/*Tijger section*/
+
+section:nth-of-type(3){
+	background-image: url(../images/leeuwgoed.webp);
+	background-position: center;
+	width: 100%;
+	height: 500vh;
+	background-attachment: fixed;
+}
+
+section:nth-of-type(3) h1{
+	color: white;
+	text-align: center;
+	font-size: 9.8vw;
+	line-height: .95;
+	text-shadow: 0 2px 40px black;
+}
+
+/*Zwart label section*/
+
+section:nth-of-type(4) a::after{
+	content: " /";
+}
+
+section:nth-of-type(4) a{
+	color: white;
+	text-decoration: none;
+	margin: 0.5em;
+}
+
+section:nth-of-type(4) ul li{
+	display: inline-block;
 }
 
 
+section:nth-of-type(4) ul{
+	position: relative;
+    min-height: 91px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+	font-size: 29px;
+	list-style: none;
+	display: block;
+ 	overflow-x: auto;
+  	white-space: nowrap;
+	top: 1em;
+
+}
+
+section:nth-of-type(4){
+	background-color: black;
+}
+
+/*artikel grijs section*/
+
+section:nth-of-type(5){
+	background-color: #DBE1E4;
+	height: 45em;
+	padding: 0 1em;
+}
+	
+section:nth-of-type(5) img{
+	margin-bottom: 1em;
+}
+
+section:nth-of-type(5) h3{
+	font-size: 36px;
+	font-weight: normal;
+}
+
+section:nth-of-type(5) li p{
+	font-weight: normal;
+}
+
+section:nth-of-type(5) a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+section:nth-of-type(5) ul{
+	display: block;
+	overflow-x: hidden;
+	white-space: nowrap;
+}
+
+section:nth-of-type(5) ul li{
+	display: inline-block;
+	max-width: 100%;
+	margin: 50px 0 50px;
+	vertical-align: top;
+}
+
+section:nth-of-type(5) h2{
+	font-size: 36px;
+	margin-top: 1em;
+	font-weight: normal;
+}
+
+section:nth-of-type(5) p:nth-of-type(1){
+	display: inline;
+	background: black;
+	color: white;
+	padding: 5px 17px;
+}
+/*Geel form sction*/
+
+section:nth-of-type(6){
+	background-color: #F7AB3E;
+	padding: 31px;
+	font-size: 48px;
+}
 
 
+form ::placeholder{
+	color: rgb(87, 87, 87);
+}
 
+form input{
+	border-style: none;
+	border-bottom: 1px solid black;
+	width: 20em;
+	font-size: 1rem;
+	background: none;
+	color: black;
+}
 
+footer{
+	background-color: black;
+	padding: 32px;
+}
+
+footer h1{
+	width: 100%;
+    height: 100%;
+	margin: 0;
+	color: white;
+}
+
+footer h3{
+	color: #829bc4;
+	font-size: 1.25rem;
+}
+
+footer ul:nth-of-type(1){
+	color: white;
+	list-style: none;
+}
+
+footer nav ul a{
+	text-decoration: none;
+	list-style: none;
+	color: white;
+	font-size: 18px;
+	display: flex;
+	flex-direction: column;
+	border-top: 1px solid white;
+	padding: 20px 0 20px 20px;
+}
+
+footer nav ul a::after{
+	content: "+" ;
+	position: absolute;
+	right: 3em;
+	color: grey;
+}
+
+footer ul img{
+	width: 1.5em;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+footer img{
+	width: 8em;
+}
 

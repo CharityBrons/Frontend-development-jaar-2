@@ -39,7 +39,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Straat home   
-  <img src="straatmuseum.com_nl(iPhone 12 Pro).png" width="375px" alt="Home">
+  ![home](https://github.com/readme-images/straatmuseum.com_nl.png)
+  <img src="" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tickets  
@@ -160,7 +161,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Iedereen heeft een begin van zijn of haar website. De meeste lopen wel goed op een paar problemen na.
+  Deze vragen moeten nog gesteld worden aan de studentenassisstenten.
+
+  Voor mij persoonlijk heb ik moeite met mijn css goed krijgen. Bijvoorbeeld de header loopt niet lekker. Ik heb de hele opstelling van mijn html verandert om het mooier te maken.
 
 
   ### Agenda voor meeting
@@ -172,6 +176,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
+  Vragen:
+  - Hoe maak ik een hamburg menu goed?
+  - Hoe krijg ik de linkjes in mijn nav geanimeerd met een witte achtegrond?
+  - Hoe maak je een horizontale scrollbar?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
