@@ -271,7 +271,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  file:///Users/cb/Documents/cmd%202021:2025/Jaar%202/Frontend%20development/basiswebsite/index.html
   <img src="readme-images/mijnversie.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -283,7 +282,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit was lastig/Is niet gelukt:
   Ik had heel veel moeite met het maken van de css. Ik merkte aan mezelf dat ik weer helemaal moest inkomen met css schrijven. Ik heb hierdoor de opdracht dan ook niet af gekregen. Ik heb 90% van mijn tijd besteed aan het combineren van mijn html en css code. Ik had meer hulp moeten vragen, maar dat wilde ik liever niet doen. Ik vind het jammer dat ik weinig tijd heb besteed aan het animeer gedeelte van de opdracht. 
 
-  <img src="readme-images/" width="375px" alt="bummer">
 </details>
 
 
