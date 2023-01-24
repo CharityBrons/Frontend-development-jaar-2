@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Straat home   
-  ![home](https://github.com/readme-images/straatmuseum.com_nl.png)
+  ![home]
   <img src="readme-images/straatmuseum.com_nl(iPhone 12 Pro).png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tickets  
-  <img src="tickets.straatmuseum.com_nl_tickets(iPhone 12 Pro).png" width="375px" alt="Tickets">
+  <img src="readme-images/straatmuseum.com_nl_blog_ndsm-burners-november-2022(iPhone SE)" width="375px" alt="Tickets">
  
 </details>
 
@@ -85,7 +85,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - wazige tekst
   - Grote letters helpen
 
-<img src="IMG_1553.HEIC" width="375px" alt="Mats">
+<img src="readme-images/IMG_1552.jpeg" width="375px" alt="Mats">
 </details>
 
 
@@ -96,7 +96,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Scherm­afbeelding 2022-12-13 om 22.34.55" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="" width="375px" alt="breakdown van een dynamisch deel">
