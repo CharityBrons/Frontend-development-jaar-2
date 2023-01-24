@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Straat home   
   ![home](https://github.com/readme-images/straatmuseum.com_nl.png)
-  <img src="" width="375px" alt="Home">
+  <img src="readme-images/straatmuseum.com_nl(iPhone 12 Pro).png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tickets  
@@ -298,7 +298,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
   1. bron 1|: https://code-boxx.com/html-css-news-ticker-horizontal-vertical/#sec-horizontal (hoe maak ik een ticker text?)
-  2. bron 2: https://stackoverflow.com/questions/70517687/background-image-increase-size-with-scroll (Hoe laat ik een afbeelding inzoomen in beeld)
-  3. 
+  2. bron 2: https://stackoverflow.com/questions/70517687/background-image-increase-size-with-scroll (hoe laat ik een afbeelding inzoomen in beeld)
+  3. bron 3:https://codepen.io/Arkmont/pen/eWbeJq?editors=1100 (hoe flip je de R horizontaal met een hover)
 
 </details>
