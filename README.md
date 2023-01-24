@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Straat home   
   ![home]
-  <img src="readme-images/straatmuseum.com_nl(iPhone 12 Pro).png" width="375px" alt="Home">
+  <img src="readme-images/home.png" width="375px" alt="Home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Tickets  
-  <img src="readme-images/straatmuseum.com_nl_blog_ndsm-burners-november-2022(iPhone SE)" width="375px" alt="Tickets">
+  <img src="readme-images/2epagina.png" width="375px" alt="Tickets">
  
 </details>
 
@@ -96,7 +96,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/Scherm­afbeelding 2022-12-13 om 22.34.55" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/xdversie.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="" width="375px" alt="breakdown van een dynamisch deel">
@@ -272,18 +272,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je uitkomst - karakteristiek screenshots:
   file:///Users/cb/Documents/cmd%202021:2025/Jaar%202/Frontend%20development/basiswebsite/index.html
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/mijnversie.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb de afgelopen weken veel geleerd omtrent html en css. Ik heb mijn basiskennis zeker verbeterd en ik kan nu makkelijker code schrijven. Ik vond het leuk om meer te leren over animeren en het daadwerkelijk mooi maken van een website. Ondanks dat ik het niet af heb gekregen. Ik vond het leuk om aan deze opdracht te werken, het is net een grote puzzel oplossen. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/goed.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Ik had heel veel moeite met het maken van de css. Ik merkte aan mezelf dat ik weer helemaal moest inkomen met css schrijven. Ik heb hierdoor de opdracht dan ook niet af gekregen. Ik heb 90% van mijn tijd besteed aan het combineren van mijn html en css code. Ik had meer hulp moeten vragen, maar dat wilde ik liever niet doen. Ik vind het jammer dat ik weinig tijd heb besteed aan het animeer gedeelte van de opdracht. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/" width="375px" alt="bummer">
 </details>
 
 
